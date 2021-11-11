@@ -1,7 +1,6 @@
 # ihatecompsci
 And now a word from one of the authors:\
 I'm not fucking documenting this if you're smart enough to get here you're smart enough to figure it out
-- Zach
 
 fuck this shit
 I hate it
