@@ -4,7 +4,7 @@
 int main(int argc, char** argv) {
     int *v;
 
-    v = malloc(sizeof(int * 4));
+    v = malloc(sizeof(int)*4);
 
     for (int i = 0; i < 4; i++) {
         printf("\nEnter number %d: ", i+1);
