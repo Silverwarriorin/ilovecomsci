@@ -1,0 +1,2 @@
+# ihatecompsci
+fuck this shit
