@@ -51,5 +51,20 @@ public class FivePointNineteen {
 				System.out.print("King of ");
 				break;
 		}
+
+		switch (strarr[1]) {
+			case "H":
+				System.out.print("Hearts");
+				break;
+			case "D":
+				System.out.print("Diamonds");
+				break;
+			case "S":
+				System.out.print("Spades");
+				break;
+			case "C":
+				System.out.print("Clubs");
+				break;
+		}
 	}
 }
