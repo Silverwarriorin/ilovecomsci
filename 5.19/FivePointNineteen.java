@@ -8,7 +8,10 @@ public class FivePointNineteen {
 		String[] strarr = card.split("");
 
 		//Lots of switch statements lol
+		if(strarr.length > 2) {
+			strarr[1] = strarr[2];
 
+		}
 		switch (strarr[0]) {
 
 			case "A":
@@ -38,7 +41,7 @@ public class FivePointNineteen {
 			case "9":
 				System.out.print("9 of ");
 				break;
-			case "10":
+			case "1":
 				System.out.print("10 of ");
 				break;
 			case "J":
