@@ -53,6 +53,8 @@ public class FivePointNineteen {
 			case "K":
 				System.out.print("King of ");
 				break;
+			default:
+				System.out.print("Unknown Card of: ");
 		}
 
 		switch (strarr[1]) {
@@ -68,6 +70,9 @@ public class FivePointNineteen {
 			case "C":
 				System.out.print("Clubs");
 				break;
+
+			default:
+				System.out.print("Unknown Suite");
 		}
 	}
 }
